@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdapterMode/AdapterMode.iml" filepath="$PROJECT_DIR$/AdapterMode/AdapterMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BridgeMode/BridgeMode.iml" filepath="$PROJECT_DIR$/BridgeMode/BridgeMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderMode/BuilderMode.iml" filepath="$PROJECT_DIR$/BuilderMode/BuilderMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibilityPattern/ChainOfResponsibilityPattern.iml" filepath="$PROJECT_DIR$/ChainOfResponsibilityPattern/ChainOfResponsibilityPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommandMode/CommandMode.iml" filepath="$PROJECT_DIR$/CommandMode/CommandMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite/Composite.iml" filepath="$PROJECT_DIR$/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LiabilityMode/LiabilityMode.iml" filepath="$PROJECT_DIR$/LiabilityMode/LiabilityMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyMode/ProxyMode.iml" filepath="$PROJECT_DIR$/ProxyMode/ProxyMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonMode/SingletonMode.iml" filepath="$PROJECT_DIR$/SingletonMode/SingletonMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State/State.iml" filepath="$PROJECT_DIR$/State/State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageloadertest/imageloadertest.iml" filepath="$PROJECT_DIR$/imageloadertest/imageloadertest.iml" />
+    </modules>
+  </component>
+</project>

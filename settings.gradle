@@ -1,0 +1,1 @@
+include ':app', ':SingletonMode', ':BuilderMode', ':imageloadertest', ':Factory', ':AbstractFactory', ':Strategy', ':State', ':LiabilityMode', ':CommandMode', ':AdapterMode', ':BridgeMode', ':Composite', ':ProxyMode', ':ChainOfResponsibilityPattern'
